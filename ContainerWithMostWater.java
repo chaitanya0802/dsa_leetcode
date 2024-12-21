@@ -1,6 +1,6 @@
 //https://leetcode.com/problems/container-with-most-water/
 
-class Solution1 {
+class ContainerWithMostWater {
 
     public int maxArea(int[] height) {
         int left = 0; 
